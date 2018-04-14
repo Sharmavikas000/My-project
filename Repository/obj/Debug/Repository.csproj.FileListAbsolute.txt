@@ -1,0 +1,11 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\Repository.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\Repository.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\DBMapping.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\DBMapping.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\obj\Debug\Repository.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Repository\obj\Debug\Repository.pdb

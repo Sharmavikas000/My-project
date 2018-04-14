@@ -1,0 +1,7 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\ModelMappers\bin\Debug\ModelMappers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\ModelMappers\bin\Debug\ModelMappers.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\ModelMappers\bin\Debug\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\ModelMappers\bin\Debug\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\ModelMappers\obj\Debug\ModelMappers.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\ModelMappers\obj\Debug\ModelMappers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\ModelMappers\obj\Debug\ModelMappers.pdb

@@ -1,0 +1,34 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\Controller.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\Controller.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\BusinessManagers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\ModelMappers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\Repository.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\DBMapping.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\EntityFramework.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\BusinessManagers.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\ModelMappers.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\Repository.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\DBMapping.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\bin\Debug\EntityFramework.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\obj\Debug\UserController.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\obj\Debug\Controller.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Controller\obj\Debug\Controller.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\Controller.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\Controller.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\BusinessManagers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\Domain.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\ModelMappers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\Repository.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\DBMapping.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\EntityFramework.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\BusinessManagers.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\Domain.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\ModelMappers.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\Repository.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\DBMapping.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\bin\Debug\EntityFramework.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\obj\Debug\UserController.csprojResolveAssemblyReference.cache
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\obj\Debug\Controller.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Controller\obj\Debug\Controller.pdb

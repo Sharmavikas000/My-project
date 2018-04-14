@@ -1,0 +1,142 @@
+﻿@model ModelMappers.Model.EmployeeModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Employee</h2>
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        //$(".abc").click(function () {
+        //    $(".txt").each(function () {
+        //        $(this).val("");
+        //    })
+        //});
+
+        $("#SubmitLink").click(function (e) {
+            e.preventDefault();
+            var SDiv = $("#SucessDiv");
+            if ($('#contactUsForm').valid()) {
+                $.post("@Url.Action("IndexJquery","Employee")", $('form').serialize(), function (result) {
+                    if (result) {
+                        SDiv.html("Data submitted sucessfully..!!").show("slow");
+                        window.location = '/Employee/Index/'
+                    }
+                    else {
+                        SDiv.html("Data not submitted..!!").show("slow");
+                    }
+                });
+
+            }
+        });
+        $("#id").click(function () {
+            $.get("@Url.Action("Index?id","Employee")")
+
+        });
+        
+    });
+
+
+</script>
+
+@Html.ValidationSummary(true, "Oh Nuts.!!. Please correct the errors and try again.")
+
+@using (Html.BeginForm("Index","Employee",FormMethod.Post, new { @id = "contactUsForm" }))
+{
+    <div>
+        <fieldset>
+            <legend>Employee Information</legend>
+            <div>
+                @Html.HiddenFor(x => x.Employee.EmpId, new {@id="Employee_EmpId" })
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(x => x.Employee.Empname)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(x => x.Employee.Empname, new { @class = "txt",@id="Employee_Empname" })
+                @Html.ValidationMessageFor(x => x.Employee.Empname)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(x => x.Employee.EmpSal)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(x => x.Employee.EmpSal, new { @class = "txt",@id="Employee_Empsal" })
+                @Html.ValidationMessageFor(x => x.Employee.EmpSal)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(x => x.Employee.EmpCity)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(x => x.Employee.EmpCity, new { @class = "txt",@id="Employee_Empcity" })
+                @Html.ValidationMessageFor(x => x.Employee.EmpCity)
+            </div>
+            <div class="editor-label">
+               @Html.LabelFor(x => x.Employee.EmpState)
+            </div>
+            <div class="editor-field">
+                @Html.DropDownListFor(x =>x.State,Model.StateDropDownList,"-State-")
+                @Html.ValidationMessageFor(x => x.Employee)
+            <p>
+                <input type="Button" value="Submit"  class="abc"/>
+                <input type="submit" value="Submit With Jquery" id="SubmitLink" />
+            </p>
+            
+            <div id="SucessDiv"></div>
+
+        </fieldset>
+    </div>
+    
+    <div>
+        <fieldset>
+            <legend>Grid View</legend>
+            <table>
+                <tr>
+
+                    <th style="width: 20px">ID</th>
+                    <th style="width: 100px">Name</th>
+                    <th style="width: 100px">Salary</th>
+                    <th style="width: 100px">City</th>
+                    <th style="width: 100px">State</th>
+                    <th style="width: 100px">Update</th>
+                    <th style="width: 100px">Delete</th>
+                </tr>
+                @foreach (var item in Model.Employees)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(x => item.EmpId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(x => item.Empname)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(x => item.EmpSal)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(x => item.EmpCity)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(x => item.EmpState)
+                        </td>
+                        <td style="width:150px;">
+                            @Html.ActionLink("EDIT", "Index", new 
+                            { 
+                                id=item.EmpId
+                            })
+                            @*<a href="Employee/index?id=@item.EmpId">Edit</a>|<a href="Employee/index?id=@item.EmpId" class="Editbtn" Eid="@item.EmpId" Ename="@item.Empname" Esal="@item.EmpSal" Ecity="@item.EmpCity">Edit With JQuery</a>*@
+                        </td>
+                        <td style="width:180px;">
+                            <a href="Employee/Delete?id=@item.EmpId">Delete</a>|<a href="Employee/Delete?id=@item.EmpId">Delete With JQuery</a>
+                        </td>
+                    </tr>
+		 
+                }
+
+            </table>
+        </fieldset>
+    </div>
+
+}
+

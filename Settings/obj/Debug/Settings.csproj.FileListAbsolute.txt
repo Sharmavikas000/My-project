@@ -1,0 +1,56 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Settings.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Settings.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\BusinessManagers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Castle.Core.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\DBMapping.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\EntityFramework.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\FluentNHibernate.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Iesi.Collections.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\NHibernate.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Repository.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\StructureMap.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\BusinessManagers.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\DBMapping.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Repository.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Castle.Core.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\EntityFramework.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\FluentNHibernate.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\FluentNHibernate.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Iesi.Collections.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Iesi.Collections.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\NHibernate.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\NHibernate.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\NHibernate.ByteCode.Castle.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\bin\Debug\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\obj\Debug\Settings.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\Settings\obj\Debug\Settings.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Settings.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Settings.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\BusinessManagers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\DBMapping.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\EntityFramework.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Repository.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Domain.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\BusinessManagers.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\DBMapping.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Repository.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Castle.Core.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\EntityFramework.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\FluentNHibernate.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\FluentNHibernate.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Iesi.Collections.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Iesi.Collections.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\NHibernate.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\NHibernate.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\NHibernate.ByteCode.Castle.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\bin\Debug\Domain.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\obj\Debug\Settings.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\Settings\obj\Debug\Settings.pdb

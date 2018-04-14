@@ -1,0 +1,26 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\BusinessManagers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\BusinessManagers.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\Repository.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\DBMapping.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\EntityFramework.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\Repository.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\DBMapping.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\bin\Debug\EntityFramework.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\obj\Debug\BusinessManagers.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\obj\Debug\BusinessManagers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\BusinessManagers\obj\Debug\BusinessManagers.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\BusinessManagers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\BusinessManagers.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\Domain.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\Repository.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\DBMapping.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\EntityFramework.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\Domain.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\Repository.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\DBMapping.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\bin\Debug\EntityFramework.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\obj\Debug\BusinessManagers.csprojResolveAssemblyReference.cache
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\obj\Debug\BusinessManagers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\BusinessManagers\obj\Debug\BusinessManagers.pdb

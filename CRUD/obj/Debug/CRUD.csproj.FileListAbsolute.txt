@@ -1,0 +1,72 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\CRUD.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\CRUD.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Controller.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\EntityFramework.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\ModelMappers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Settings.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.Helpers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.Mvc.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.Providers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.Razor.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.WebPages.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\BusinessManagers.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\StructureMap.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\DBMapping.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Repository.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Controller.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\ModelMappers.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Settings.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\EntityFramework.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.Helpers.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.Mvc.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.Razor.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.WebPages.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\BusinessManagers.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\DBMapping.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Repository.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\CRUD.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\CRUD.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Controller.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Domain.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\EntityFramework.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\ModelMappers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Settings.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.Helpers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.Mvc.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.Providers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.Razor.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.WebPages.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\BusinessManagers.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\StructureMap.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\DBMapping.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Repository.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Controller.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Domain.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\ModelMappers.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Settings.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\EntityFramework.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.Helpers.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.Mvc.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.Razor.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.WebPages.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\BusinessManagers.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\DBMapping.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\bin\Repository.pdb
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.dll
+C:\Users\vAmeo14\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb

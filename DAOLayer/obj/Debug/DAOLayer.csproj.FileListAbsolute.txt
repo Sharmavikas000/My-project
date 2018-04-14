@@ -1,0 +1,11 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\DAOLayer.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\DAOLayer.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\Repository.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\Repository.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\obj\Debug\DAOLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\obj\Debug\DAOLayer.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DAOLayer\obj\Debug\DAOLayer.pdb

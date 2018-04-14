@@ -1,0 +1,9 @@
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\bin\Debug\DBMapping.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\bin\Debug\DBMapping.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\bin\Debug\Domain.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\bin\Debug\EntityFramework.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\bin\Debug\Domain.pdb
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\bin\Debug\EntityFramework.xml
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\obj\Debug\DBMapping.csprojResolveAssemblyReference.cache
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\obj\Debug\DBMapping.dll
+C:\Users\Ameo13\documents\visual studio 2012\Projects\CRUD\DBMapping\obj\Debug\DBMapping.pdb
